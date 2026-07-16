@@ -251,7 +251,6 @@ poi-scratchpad_5.4.1.wso2v2.jar                                                 
 org.wso2.carbon.identity.user.registration.stub_7.10.78.jar                                         bundle         apache2
 org.wso2.carbon.identity.action.management_7.10.78.jar                                              bundle         apache2
 org.eclipse.equinox.event_1.5.100.v20190528-1257.jar                                                bundle         epl1
-org.wso2.carbon.identity.notification.push.provider.amazonsns_1.0.0.jar                             bundle         apache2
 org.wso2.carbon.identity.openid4vc.issuance.metadata_1.1.6.jar                                      bundle         apache2
 wsdl4j_1.6.2.wso2v4.jar                                                                             bundle         apache2
 org.wso2.carbon.identity.functions.library.mgt_7.10.78.jar                                          bundle         apache2

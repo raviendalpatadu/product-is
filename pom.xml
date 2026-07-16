@@ -2011,16 +2011,6 @@
                 <version>${identity.notification.push.version}</version>
             </dependency>
             <dependency>
-                <groupId>org.wso2.carbon.identity.notification.push</groupId>
-                <artifactId>org.wso2.carbon.identity.notification.push.provider.amazonsns</artifactId>
-                <version>${identity.notification.push.provider.amazonsns.version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.wso2.carbon.identity.notification.push</groupId>
-                <artifactId>org.wso2.carbon.identity.notification.push.provider.amazonsns.feature</artifactId>
-                <version>${identity.notification.push.provider.amazonsns.version}</version>
-            </dependency>
-            <dependency>
                 <groupId>org.wso2.carbon.identity.local.auth.push</groupId>
                 <artifactId>org.wso2.carbon.identity.local.auth.push.authenticator</artifactId>
                 <version>${identity.local.auth.push.version}</version>
